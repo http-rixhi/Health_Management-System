@@ -7,3 +7,4 @@ It also Manages multiple users data seperately!!
 - Manage your daily data logs with time stamps.
 - Provided Source file as well as EXE file both, so you can directly use the EXE like other applications.
 - All data stored in your system only, so no one access that without your permission.
+- You can also create a shortcut of exe file and keep on your desktop for easy ans fast accessing.
