@@ -12,4 +12,4 @@ It also Manages multiple users data seperately!!
 
 ## License
 
-[License](LICENSE)
+[MIT License](LICENSE)
